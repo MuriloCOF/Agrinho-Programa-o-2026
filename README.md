@@ -13,3 +13,5 @@ No final da página, há um minijogo chamado "Colheita Sustentável". Nele, o jo
 
 ## Utilização da Inteligência Artificial
 A inteligência artificial foi utilizada 98% como ferramenta de apoio no desenvolvimento deste projeto, auxiliando na criação do código, na organização do site e na implementação das funcionalidades. Todo o conteúdo foi revisado e adaptado para atender aos objetivos do projeto.
+
+## Site: https://agro-play-future.lovable.app
